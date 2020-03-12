@@ -1,6 +1,6 @@
 # 图片处理
 
-## SVG
+## [SVG](SVG.md)
 
 SVG是一种图像文件格式，它的英文全称为Scalable Vector Graphics，意思为可缩放的矢量图形。  
 它是基于XML（Extensible Markup Language），由World Wide Web Consortium（W3C）联盟进行开发的。  
